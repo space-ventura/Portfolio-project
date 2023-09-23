@@ -91,9 +91,10 @@ p {
 }
 
 .primary-link {
-  text-align: center;
+display:block;
+    text-align: center;
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 20px 5px;
   text-decoration: none;
   text-transform: capitalize;
   background: var(--primary-color);
