@@ -5,7 +5,7 @@
 }
 
 body {
-  margin: 60px auto;
+  margin: 90px auto;
   width: 100%;
 }
 
@@ -127,11 +127,11 @@ display:block;
 
 .about {
   padding-top: 60px;
-  margin: 30px;
+  margin: 30px 0;
 }
 
 .headshot {
-  margin: 30px;
+  margin: 30px 60px;
 }
 
 @media (max-width: 900px) {
@@ -165,8 +165,8 @@ display:block;
     padding-top: 0;
     margin: 0;
   }
-  .headshot {
-    margin: 10px 10px; 
+  .headshot { 
+    margin: 20px; 
   }
   .work-images {
     margin: 10px;
@@ -179,7 +179,7 @@ display:block;
   display: block;
     text-align: center;
     border-radius: 4px;
-    padding: 20px 0px;
+    padding: 20px 20px;
       margin: 0 auto;
     width: 25%;
     text-decoration: none;
