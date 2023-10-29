@@ -3,12 +3,9 @@
   --secondary-color: #f5f2fe;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
-
 body {
-  margin: 90px auto;
-  width: 100%;
+  margin: 90px 0;
 }
-
 h1,
 h2,
 h3 {
