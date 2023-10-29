@@ -189,3 +189,7 @@ display:block;
 .work-button:hover {
   color: white;
 }
+
+.contact-text {
+  font-size: 24px;
+}
